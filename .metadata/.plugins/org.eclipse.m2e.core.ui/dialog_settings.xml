@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="newenduser"/>
+			<item value="newdeliveryboy"/>
+			<item value="dsfs"/>
+			<item value="deliveryboy"/>
+			<item value="deloveryboy"/>
+			<item value="testytvchvhv"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="kafka-producer"/>
+			<item value="jdsadaf"/>
+			<item value="Kafka-producer"/>
+			<item value="kafkatest"/>
+			<item value="kafka-producer-hello"/>
+			<item value="com.test"/>
+		</list>
+		<list key="name">
+			<item value="producer-hello"/>
+			<item value="producer hello"/>
+			<item value="ddsadad"/>
+			<item value="kafka-producer-hello"/>
+			<item value="endusernew"/>
+			<item value="deliveryboy"/>
+		</list>
+		<list key="artifactId">
+			<item value="producer-hello"/>
+			<item value="ds"/>
+			<item value="producer_hello"/>
+			<item value="newenduser"/>
+			<item value="test-microservice"/>
+			<item value="newdeliveryboy"/>
+			<item value="dsfs"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="450"/>
+		<item key="x" value="720"/>
+		<item key="y" value="106"/>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\madan-worksplace\kafka\kafka-hello-producer"/>
+			<item value="C:\madan-worksplace\kafka"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\ratings\RatingService"/>
+			<item value="C:\osc saurabh\OSC"/>
+			<item value="C:\Kafka-Streams-Master-Class-main\kafka all code\kafkastream-main"/>
+			<item value="C:\Kafka-Streams-Master-Class-main\kafka all code\kstreams-consumer"/>
+			<item value="C:\Kafka-Streams-Master-Class-main\kafka all code\35-ktable-aggregate-query-starter"/>
+			<item value="C:\Kafka-Streams-Master-Class-main\kafka all code\18-streaming-table"/>
+			<item value="C:\Users\Madan Holamb\Downloads\02-hello-producer-completed\02-hello-producer"/>
+			<item value="C:\Users\Madan Holamb\Downloads\02-hello-producer-completed"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
